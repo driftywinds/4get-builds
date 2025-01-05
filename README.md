@@ -9,7 +9,7 @@ Also available on Docker Hub - [```driftywinds/4get:latest```](https://hub.docke
 How to use: - 
 
 1. Use the docker or docker compose template from the official repo.
-3. Change the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/hoyocheckin:latest```.
+3. Change the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/4get:latest```.
 
 <br>
 
