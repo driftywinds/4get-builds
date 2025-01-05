@@ -1,2 +1,19 @@
-# 4get-builds
-Empty repo to house the README for 4get server docker builds for arm64
+## An arm64 docker image for [4get](https://git.lolcat.ca/lolcat/4get) the search engine made by drifty
+
+4get is a proxy search engine that doesn't suck.
+
+The official images for arm64 do not exist and require building everytime, and I needed one for my Pi, so I cloned the repo and built the image myself. Useful for anyone with an arm64 processor who wants to run the bot. 
+
+Also available on Docker Hub - [```driftywinds/4get:latest```](https://hub.docker.com/repository/docker/driftywinds/4get/general)
+
+How to use: - 
+
+1. Use the docker or docker compose template from the official repo.
+3. Change the "image" part of the docker-compose.yml to ```ghcr.io/driftywinds/hoyocheckin:latest```.
+
+<br>
+
+You can check logs live with this command: - 
+```
+docker logs -f <container name>
+```
