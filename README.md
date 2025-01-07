@@ -2,7 +2,7 @@
 
 4get is a proxy search engine that doesn't suck.
 
-The official images for arm64 do not exist and require building everytime, and I needed one for my Pi, so I cloned the repo and built the image myself. Useful for anyone with an arm64 processor who wants to run the bot. 
+The official images for arm64 do not exist and require building everytime, and I needed one for my Pi, so I cloned the repo and built the image myself. Useful for anyone with an arm64 processor who wants to run the bot. (Official docker repo at [```luuul/4get```](https://hubgw.docker.com/r/luuul/4get/tags))
 
 Also available on Docker Hub - [```driftywinds/4get:latest```](https://hub.docker.com/repository/docker/driftywinds/4get/general)
 
