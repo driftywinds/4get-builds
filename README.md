@@ -1,8 +1,8 @@
-## An arm64 docker image for [4get](https://git.lolcat.ca/lolcat/4get) the search engine made by drifty
+## An arm64 docker image for the [4get](https://git.lolcat.ca/lolcat/4get) search engine made by drifty
 
 4get is a proxy search engine that doesn't suck.
 
-The official images for arm64 do not exist and require building everytime, and I needed one for my Pi, so I cloned the repo and built the image myself. Useful for anyone with an arm64 processor who wants to run the bot. (Official docker repo at [```luuul/4get```](https://hubgw.docker.com/r/luuul/4get/tags))
+The official images for arm64 do not exist and require building everytime, and I needed one for my Pi, so I cloned the repo and built the image myself. Useful for anyone with an arm64 processor who wants to run the engine. (Official docker repo at [```luuul/4get```](https://hubgw.docker.com/r/luuul/4get/tags))
 
 Also available on Docker Hub - [```driftywinds/4get:latest```](https://hub.docker.com/repository/docker/driftywinds/4get/general)
 
